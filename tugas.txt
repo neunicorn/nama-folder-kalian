@@ -1,0 +1,1 @@
+disini kita bisa membuat macam macam file seperti .html, .js, .css, .php, dan lain lain
